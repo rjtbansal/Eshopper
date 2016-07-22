@@ -1,0 +1,11 @@
+Pitfalls
+
+Cannot calculate total based on quantity purchased and price 
+(simple calc: total=quantity* price)...But in db, price is stored as $ which is preventing calculations
+
+pending
+-> Checkout...items disappearing from the cart and adding to purchase history
+-> Quantity
+-> Search
+-> Manager operations
+-> Feedback
